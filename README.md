@@ -1,4 +1,4 @@
-# 📌 Tipping-Points-Paper
+# Tipping-Points-Paper
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.01622-b31b1b.svg)](https://arxiv.org/abs/2509.01622)
 
@@ -13,7 +13,7 @@ replicate the empirical analysis and identification results in the paper.
 
 ---
 
-## 🎯 What This Repository Provides
+## What This Repository Provides
 
 - Non-parametric identification of treatment effects at tipping points  
 - Support-based Manski bounds  
@@ -25,7 +25,7 @@ replicate the empirical analysis and identification results in the paper.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the repository
 
