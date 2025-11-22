@@ -13,21 +13,6 @@ replicate the empirical analysis and identification results in the paper.
 
 ---
 
-## ✅ Repository Contents
-
-Tipping-Points-Paper/
-│
-├── README.md
-├── tipping_environment.yml # Reproducible conda environment
-│
-├── controls_and_outcomes.csv # Firm-level outcomes & controls
-├── sector_variables.csv # Sector-level regressors
-├── tobinsq.csv # Tobin’s Q dataset
-│
-├── Tipping_Point_Paper_Empirical_Github.ipynb # Full empirical replication
-└── MonteCarlo_Github.ipynb # Simulation & coverage study
----
-
 ## 🎯 What This Repository Provides
 
 - Non-parametric identification of treatment effects at tipping points  
