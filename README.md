@@ -1,8 +1,6 @@
 # 📌 Tipping-Points-Paper
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.01622-b31b1b.svg)](https://arxiv.org/abs/2509.01622)
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 This repository accompanies the research paper:
 
@@ -49,12 +47,16 @@ Tipping-Points-Paper/
 ```bash
 git clone https://github.com/kavehsn/Tipping-Points-Paper.git
 cd Tipping-Points-Paper
+```
+### 2️⃣ Create & activate environment
 
-**### 2️⃣ Create & activate environment**
-
+```bash
 conda env create -f tipping_environment.yml
 conda activate tipping
+```
+### 3️⃣ Launch JupyterLab
 
-**### 3️⃣ Launch JupyterLab**
+```bash
 jupyter lab
+```
 
