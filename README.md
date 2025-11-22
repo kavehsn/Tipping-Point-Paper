@@ -28,8 +28,6 @@ Tipping-Points-Paper/
 │
 ├── Tipping_Point_Paper_Empirical_Github.ipynb # Full empirical replication
 └── MonteCarlo_Github.ipynb # Simulation & coverage study
-
-
 ---
 
 ## 🎯 What This Repository Provides
@@ -52,6 +50,11 @@ Tipping-Points-Paper/
 git clone https://github.com/kavehsn/Tipping-Points-Paper.git
 cd Tipping-Points-Paper
 
+**### 2️⃣ Create & activate environment**
+
 conda env create -f tipping_environment.yml
 conda activate tipping
+
+**### 3️⃣ Launch JupyterLab**
+jupyter lab
 
